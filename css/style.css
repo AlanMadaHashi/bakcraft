@@ -1,8 +1,8 @@
- /* @import url(); */
- 
  @import "./global/global.css";
  @import"./utilidade/tipografia.css";
  @import"./utilidade/cores.css";
+ /* Global */
+ 
  @import "./global/header.css";
  /* utilidade */
  
@@ -10,3 +10,6 @@
  /* HOME */
  
  @import"./home/introducao.css";
+ /* Bicicletas */
+ 
+ @import "./home/bicicletas-lista.css";
