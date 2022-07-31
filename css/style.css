@@ -4,12 +4,19 @@
  /* Global */
  
  @import "./global/header.css";
+ @import "./global/footer.css";
  /* utilidade */
  
  @import"./utilidade/componetes.css";
  /* HOME */
  
  @import"./home/introducao.css";
+ @import"./home/tecnologia.css";
+ @import"./home/parceiros.css";
+ @import"./home/depoimento.css";
  /* Bicicletas */
  
  @import "./home/bicicletas-lista.css";
+ /* Seguros */
+ 
+ @import "./seguros/seguros.css"
